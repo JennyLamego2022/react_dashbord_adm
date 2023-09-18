@@ -1,4 +1,4 @@
-import IProfissional from "./iProfissional";
+import IProfissional from "./IProfissional";
 
 export default interface IConsulta extends IProfissional {
   id: number;
