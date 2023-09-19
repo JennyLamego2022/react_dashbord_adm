@@ -10,7 +10,6 @@ import {
 } from "@mui/material";
 import IConsulta from "../../types/IConsulta";
 import styled from "@emotion/styled";
-import { red } from "@mui/material/colors";
 
 const CelulaEstilizada = styled(TableCell)(() => ({
   [`&.${tableCellClasses.head}`]: {
