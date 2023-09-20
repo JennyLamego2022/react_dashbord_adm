@@ -2,8 +2,8 @@
 
 - [Descrição](#descrição)
 - [Imagens](#imagens)
-- [Funcionalidades](#funcionalidades)
-- [Técnicas](#tecnicas)
+- [Funcionalidades](#funcionalidades-do-projeto)
+- [Técnicas](#técnicas-e-tecnologias-utilizadas)
 - [Hospedagem](#hospedagem)
 - [Clonagem](#clonagem)
 - [Depoimento](#depoimento)
@@ -12,8 +12,6 @@
  <br>
 
 ## Descrição
-
-![React com Typescript: desenvolvendo uma área administrativa com MUI, Recharts e Styled Components](https://imgur.com/Qgf3van.png)
 
 Construção de uma página de área administrativa utilizando React com Typescript e as bibliotecas Styled-Components, MUI e Recharts.
 
@@ -24,12 +22,12 @@ Construção de uma página de área administrativa utilizando React com Typescr
 <div align="center">
 <img  src = "https://github.com/JennyLamego2022/trakto-platform/assets/97410860/82c99e25-2103-4f9c-abb1-8ccdb3cb6fab" width = "300px"/>
 
-<img  src = "(https://github.com/JennyLamego2022/trakto-platform/assets/97410860/287133fa-0dca-43df-8643-cca18e43ac7d" width = "146.6px"/>
+<img  src = "https://github.com/JennyLamego2022/trakto-platform/assets/97410860/287133fa-0dca-43df-8643-cca18e43ac7d" width = "146.6px"/>
 </div>
 
 ## Funcionalidades do projeto
 
-A página de área administrativa terá as seguintes funcionalidades:
+A página de área administrativa tem as seguintes funcionalidades:
 
 - Dashboard: Página principal com tabela, gráficos e informações.
 
@@ -55,7 +53,7 @@ As técnicas e tecnologias que foram utilizadas neste projeto são:
 
 ## Hospedagem:
 
-Vercel:em produção
+Vercel:https://react-dashbord-adm.vercel.app/
 
 ## Clonagem
 
