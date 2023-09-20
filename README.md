@@ -17,7 +17,7 @@ Construção de uma página de área administrativa utilizando React com Typescr
 
 ## Imagens
 
-<h3> :camera: Página Mobile e Página Desktop</h3>
+<h3> :camera: Página Desktop e Página Mobile</h3>
 
 <div align="center">
 <img  src = "https://github.com/JennyLamego2022/trakto-platform/assets/97410860/82c99e25-2103-4f9c-abb1-8ccdb3cb6fab" width = "300px"/>
@@ -63,7 +63,7 @@ Vercel:https://react-dashbord-adm.vercel.app/
 
 - [x] Editor de código de sua preferência (recomendado VS code)
 - [x] Git
-- [ ] React
+- [x] React
       OBS: O primeiro passo para utilizar o React é realizar a sua instalação e, para tal, é necessário ter o Node.JS instalado. Caso ainda não o tenha, acesse o site do Node.js e baixe a última versão destinada ao seu sistema operacional.
 
       Com o Node.JS instalado temos à disposição o comando npm, necessário para instalar o React. Neste ponto, será preciso abrir o terminal do seu sistema operacional e digitar a instrução:
@@ -84,7 +84,7 @@ OBS: Após essas etapas o projeto já está pronto pra rodar.
 
 ## Depoimento
 
-A construção de projeto agregou no meu conhecimento de bibliotecas React como
+A construção do projeto, agregou meu conhecimento de bibliotecas React como
 MUI e Rechats e aprimorou meu conhecimento em Styled components.
 
 Foi bem interessante construir essa aplicação.
